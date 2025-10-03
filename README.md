@@ -48,3 +48,7 @@ Correlation nullifies the assumption of time-fatalities link; The near-zero corr
 3. **Geographic Focus:** Exercise caution in entering countries with consistently high incident rates.
 
 4. **Temporal Trends:** Leverage improving safety standards by focusing on newer aircraft models with safer outcomes in recent decades.
+
+
+
+**Tableau Visual** -- https://public.tableau.com/app/profile/stephen.muema/viz/AviationAccidentsAnalysis_17592186780290/Dashboard1?publish=yes
